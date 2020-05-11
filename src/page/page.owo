@@ -1,0 +1,416 @@
+<template lang="pug">
+.home
+  plug(_name="module98" _src="https://template.owo.ink/cfeb507e71e605b2.owo")
+  .content.content-1.clear
+    .left.fl
+      h1 人民体育帮扶紫金县脱贫攻坚脱贫
+      p.text 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+      .h20
+      ul.clear
+        li
+          a(href="#") 人民体育帮扶紫金县脱贫攻坚脱贫
+        li
+          a(href="#") 人民体育帮扶紫金县脱贫攻坚脱贫
+        li
+          a(href="#") 人民体育帮扶紫金县脱贫攻坚脱贫
+        li
+          a(href="#") 人民体育帮扶紫金县脱贫攻坚脱贫
+      .h20
+      .line
+      .h20
+      //- 收缩内容区域
+      .shrink-box
+        //- 标题
+        .title-bar.clear
+          .index 一
+          h2.fl 人民体育帮扶紫金县脱贫攻坚脱贫
+        .info-card-box
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+        //- 标题
+        .title-bar.clear
+          .index 二
+          h2.fl 人民体育帮扶紫金县脱贫攻坚脱贫
+        .info-card-box
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+        //- 标题
+        .title-bar.clear
+          .index 三
+          h2.fl 人民体育帮扶紫金县脱贫攻坚脱贫
+        .info-card-box
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+          .info-card.clear
+            .people
+              img.people-img(src="@|people.png|" width="92" height="92")
+              p 某某某
+            .info-box
+              p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。爱好者们不得已暂停室外运动。为配合做好疫情防控。爱好者们不得已暂停室外运动。外运动。
+      //- 查看更多按钮
+      .show-more-button(onclick="shrink(this)" o-hover="grow") 点击查看更多
+    .right.fr
+      h1 本期背景
+      .image-box
+        a(href="")
+          img(src="@|show.png|")
+      p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+      //- 相关新闻
+      h2 相关新闻
+      ul
+        li
+          a(href="#") 这个春节，新型冠状病毒肺炎疫情毒肺炎
+        li
+          a(href="#") 这个春节，新型冠状病毒肺炎疫情毒肺炎
+      //- 圆桌介绍
+      h2 圆桌介绍
+      p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+      p 这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+      //- 广告
+      .show-box
+        a(href="#")
+          img(src="@|show-2.png|")
+      .show-box
+        a(href="#")
+          img(src="@|show-2.png|")
+  //- 标题
+  img.title-bar-long(src="@|title.png|")
+  .content.content-2.clear
+    plug(_name="module156" _src="https://template.owo.ink/4c45f9d7b7045782.owo")
+  //- 圆桌小黑板
+  .yzxhb
+    .so.so-2
+      .message 1111111111111111这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+    .so.so-3
+      .message 2222222222222222这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+    .so.so-4
+      .message 33333333333333这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+    .so.so-5
+      .message 4444444444444444444这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+    .so.so-6
+      .message 555555555555555这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+    .so.so-7
+      .message 666666666666666这个春节，新型冠状病毒肺炎疫情使得运动爱好者们不得已暂停室外运动。为配合做好疫情防控工作。
+  .title-3.w1000 各期一览
+  .h20
+  //- 底部轮播图
+  plug.w1000(_name="module141" _src="https://template.owo.ink/dd34f42b0698caf4.owo")
+  plug(_name="module2" _src="https://template.owo.ink/060579f0b4f1bcaa.owo")
+</template>
+
+<script>
+ var isShrink = false
+  function shrink(dom) {
+    if (isShrink) {
+      dom.innerText = '点击查看更多';
+      document.getElementsByClassName('shrink-box')[0].style.height = '665px'
+      isShrink = false
+    } else {
+      dom.innerText = '点击收起更多';
+      document.getElementsByClassName('shrink-box')[0].style.height = 'auto'
+      isShrink = true
+    }
+  }
+  module.exports = {
+    created: function () {
+
+    }
+  }
+</script>
+
+
+<style lang="less">
+.home {
+  background-image: url('@|bg.jpg|');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: 0px 45px;
+}
+.content {
+  background-color: white;
+  margin: 0 auto;
+  color: #595757;
+}
+.content-1 {
+  padding: 30px;
+  margin-top: 20%;
+  width: 940px;
+  border-top: 12px solid #53b1e7;
+  .left {
+    width: 625px;
+    h1 {
+      color: #4e90e5;
+      font-size: 32px;
+      border-left: 3px solid #4e90e5;
+      padding-left: 20px;
+      font-family: "Microsoft YaHei";
+      line-height: 40px;
+      margin-bottom: 20px;
+    }
+    .text {
+      text-indent: 2em;
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    li {
+      float: left;
+      width: 48%;
+      line-height: 30px;
+      font-size: 16px;
+      padding-left: 2%;
+      background-image: url(http://opinion.people.com.cn/img/MAIN/2014/06/114590/images/dot.gif);
+      background-repeat: no-repeat;
+      background-position: left center;
+    }
+    .title-bar {
+      background-image: url('@|title-1.png|');
+      background-repeat: no-repeat;
+      background-position: 0px center;
+      padding-left: 95px;
+      position: relative;
+      .index {
+        position: absolute;
+        color: white;
+        left: 54px;
+        line-height: 40px;
+        font-size: 18px;
+        width: 25px;
+        text-align: center;
+      }
+      h2 {
+        color: #595757;
+        font-size: 26px;
+        line-height: 40px;
+      }
+    }
+    .info-card {
+      margin: 20px 0;
+      .people {
+        float: left;
+        width: 92px;
+        text-align: center;
+        p {
+          font-size: 16px;
+        }
+      }
+      .people-img {
+        border-radius: 46px;
+      }
+      .info-box {
+        float: right;
+        background-image: url('@|box.png|');
+        width: 470px;
+        padding: 10px 20px;
+        height: 98px;
+        p {
+          text-indent: 2em;
+          height: 100px;
+          overflow: hidden;
+          line-height: 1.7;
+          font-size: 15px;
+        }
+      }
+    }
+  }
+  .right {
+    width: 275px;
+    h1 {
+      color: #636363;
+      font-weight: normal;
+      font-size: 24px;
+      line-height: 30px;
+      border-left: 2px solid #636363;
+      padding-left: 20px;
+      margin: 5px 0;
+      margin-bottom: 30px;
+    }
+    .image-box {
+      a, img {
+        display: block;
+        width: 100%;
+      }
+    }
+    p {
+      text-indent: 2em;
+      line-height: 1.7;
+      font-size: 14px;
+      margin-top: 15px;
+    }
+    h2 {
+      margin: 10px 0;
+      font-weight: normal;
+    }
+    li {
+      width: 97%;
+      line-height: 30px;
+      font-size: 14px;
+      padding-left: 3%;
+      background-image: url(http://opinion.people.com.cn/img/MAIN/2014/06/114590/images/dot.gif);
+      background-repeat: no-repeat;
+      background-position: left center;
+      line-height: 30px;
+      height: 30px;
+      overflow: hidden;
+    }
+  }
+}
+.content-2 {
+  width: 1000px;
+  padding: 30px 0;
+}
+.show-more-button {
+  color: #595757;
+  width: 120px;
+  text-align: center;
+  line-height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  background-color: #e5e5e5;
+  cursor: pointer;
+  user-select: none;
+  margin-top: 20px;
+}
+.show-box {
+  margin-top: 20px;
+  a, img {
+    display: block;
+  }
+}
+.shrink-box {
+  height: 665px;
+  overflow: hidden;
+  transition: height 1s;
+}
+.title-bar-long {
+  width: 1000px;
+  display: block;
+  margin: 0 auto;
+  background-color: white;
+}
+// 圆桌小黑板
+.so {
+  position: absolute;
+}
+.yzxhb {
+  width: 1003px;
+  height: 452px;
+  z-index: 0;
+  position: relative;
+  margin: 0px auto;
+  margin-top: 30px;
+  background-image: url('@|1933.png|');
+  .so {
+    cursor: pointer;
+  }
+  .so:hover .message {
+    display: block;
+  }
+  .message {
+    display: none;
+    background-image: url('@|message-box.png|');
+    padding: 20px;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 345px;
+    color: #19122f;
+    font-size: 16px;
+    position: absolute;
+    left: 40%;
+    top: 34px;
+  }
+}
+.so-2 {
+  left: 315px;
+  top: 326px;
+  width: 286px;
+  height: 20px;
+  background-image: url('@|1934.png|');;
+}
+.so-3 {
+  left: 657px;
+  top: 282px;
+  width: 210px;
+  height: 23px;
+  background-image: url('@|1935.png|');;
+}
+.so-4 {
+  left: 157px;
+  top: 239px;
+  width: 308px;
+  height: 33px;
+  background-image: url('@|1936.png|');;
+}
+.so-5 {
+  left: 595px;
+  top: 220px;
+  width: 307px;
+  height: 27px;
+  background-image: url('@|1937.png|');;
+}
+.so-6 {
+  left: 120px;
+  top: 162px;
+  width: 225px;
+  height: 22px;
+  background-image: url('@|1938.png|');;
+}
+.so-7 {
+  left: 321px;
+  top: 92px;
+  width: 366px;
+  height: 37px;
+  background-image: url('@|1939.png|');;
+}
+.title-3 {
+  font-size: 26px;
+  color: white;
+  line-height: 40px;
+}
+.info-card-box .info-card:nth-child(even) {
+  .people {
+    float: right;
+  }
+  .info-box {
+    float: left;
+    background-image: url('@|box-2.png|')
+  }
+}
+</style>
